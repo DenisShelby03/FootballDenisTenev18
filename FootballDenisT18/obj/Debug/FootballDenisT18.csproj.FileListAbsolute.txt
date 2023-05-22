@@ -1,0 +1,8 @@
+D:\Кодове\FootballDenisT18\bin\Debug\FootballDenisT18.exe.config
+D:\Кодове\FootballDenisT18\bin\Debug\FootballDenisT18.exe
+D:\Кодове\FootballDenisT18\bin\Debug\FootballDenisT18.pdb
+D:\Кодове\FootballDenisT18\obj\Debug\FootballDenisT18.csproj.AssemblyReference.cache
+D:\Кодове\FootballDenisT18\obj\Debug\FootballDenisT18.csproj.SuggestedBindingRedirects.cache
+D:\Кодове\FootballDenisT18\obj\Debug\FootballDenisT18.csproj.CoreCompileInputs.cache
+D:\Кодове\FootballDenisT18\obj\Debug\FootballDenisT18.exe
+D:\Кодове\FootballDenisT18\obj\Debug\FootballDenisT18.pdb
